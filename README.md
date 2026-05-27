@@ -1,6 +1,8 @@
-# Dictionnaire Français
+# Dictionnello
 
 Extension Chrome simple pour rechercher la définition d'un terme français en interrogeant l'API du Wiktionnaire (fr.wiktionary.org).
+
+> ⚠️ **À venir** : Dictionnello sera prochainement disponible sur le [Chrome Web Store](https://chrome.google.com) et [Firefox Add-ons](https://addons.mozilla.org). Pour l'instant, installez-la en mode développeur (voir ci-dessous).
 
 ## Fonctionnalités
 
@@ -16,16 +18,25 @@ Extension Chrome simple pour rechercher la définition d'un terme français en i
 
 ## Prérequis
 
-- Google Chrome (ou navigateur basé sur Chromium)
+- Google Chrome, Firefox, ou navigateur basé sur Chromium
 - Connexion Internet
 
 ## Installation (mode développeur)
+
+### Chrome
 
 1. Ouvrir Chrome et accéder à `chrome://extensions/`.
 2. Activer **Mode développeur** (coin supérieur droit).
 3. Cliquer sur **Charger l'extension non empaquetée** ("Load unpacked").
 4. Sélectionner le dossier du projet.
-5. L'extension apparaîtra sous le nom **Dictionnaire Français**. Pour l'afficher dans la barre d'outils, cliquer sur l'icône puzzle puis sur l'épingle.
+5. L'extension apparaîtra sous le nom **Dictionnello**. Pour l'afficher dans la barre d'outils, cliquer sur l'icône puzzle puis sur l'épingle.
+
+### Firefox
+
+1. Ouvrir Firefox et accéder à `about:debugging#/runtime/this-firefox`.
+2. Cliquer sur **Charger une extension temporaire**.
+3. Sélectionner le fichier `manifest.json` du projet.
+4. L'extension apparaîtra sous le nom **Dictionnello**.
 
 ## Utilisation
 
