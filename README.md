@@ -1,8 +1,9 @@
 # Dictionnello
 
-Extension Chrome simple pour rechercher la définition d'un terme français en interrogeant l'API du Wiktionnaire (fr.wiktionary.org).
+Extension navigateur simple pour rechercher la définition d'un terme français en un clic, interrogeant l'API du Wiktionnaire (fr.wiktionary.org).
+Disponible uniquement sur firefox : https://addons.mozilla.org/fr/firefox/addon/dictionnello/
 
-> ⚠️ **À venir** : Dictionnello sera prochainement disponible sur le [Chrome Web Store](https://chrome.google.com) et [Firefox Add-ons](https://addons.mozilla.org). Pour l'instant, installez-la en mode développeur (voir ci-dessous).
+> ⚠️ **À venir** : Dictionnello sera prochainement disponible sur le [Chrome Web Store](https://chrome.google.com). Pour l'instant, installez-la en mode développeur si vous utilisez chrome (voir ci-dessous).
 
 ## Fonctionnalités
 
